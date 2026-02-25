@@ -1,0 +1,2 @@
+when bias is low it make the shadow look like spot circle
+i like when it show softer shadowns it feel better when ton of object in the way ofc the position of my light matter too
